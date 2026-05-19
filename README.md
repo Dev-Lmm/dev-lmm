@@ -20,6 +20,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+#### **Testing & Calidad de Código**
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A1B5?style=for-the-badge&logo=opsgenie&logoColor=white)
+
 #### **Cloud, DevOps & Contenedores**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -42,7 +46,6 @@
 ---
 
 ### 🏗️ Proyectos Actuales / En el Radar
-
 - **Desarrollo Web (Frontend):** Migraciones y optimizaciones de arquitecturas modernas en **Angular** apoyándome fuertemente en TypeScript, manteniendo versatilidad y conocimiento práctico en el ecosistema de **React**.
 - **Sistemas & Game Dev:** Creación de herramientas nativas en entornos Linux usando **Rust** para el control de periféricos, y experimentación en desarrollo de videojuegos con Godot Engine (aprovechando bases de C++, Qt y lógica de shaders con GLSL).
 
