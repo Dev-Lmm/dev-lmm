@@ -30,9 +30,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 #### **Desarrollo de Sistemas, Gráficos & UI Nativa**
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-8B1A1A?style=for-the-badge&logo=opengl&logoColor=white)
 
@@ -45,6 +46,11 @@
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+
+#### **CMS, SEO & Web Tools (Ecosistema Freelance)**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix_Studio-000000?style=for-the-badge&logo=wix&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/SEO_&_Indexación-4285F4?style=for-the-badge&logo=google-search-console&logoColor=white)
 
 ---
 
