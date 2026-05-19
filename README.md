@@ -1,7 +1,5 @@
 # ¡Hola! Soy un Desarrollador Full Stack 🚀
 
-Me apasiona construir aplicaciones robustas, eficientes y escalables, cuidando tanto la lógica del backend como la experiencia en el frontend. Disfruto resolver problemas complejos, optimizar flujos de trabajo y explorar el desarrollo a bajo nivel y entornos nativos.
-
 ---
 
 ### 🛠️ Tecnologías y Herramientas
